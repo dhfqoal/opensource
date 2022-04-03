@@ -1,7 +1,7 @@
 import random
 
  
-
+#2021041032_정강훈
 data=[]
 
 i, k =0, 0

@@ -1,6 +1,6 @@
 import turtle
 import random
-
+#2021041032_정강훈
 myturtle, tangle, tsize, tshape, tcolor = [None] * 5
 pturtle = []
 shapelist = []
