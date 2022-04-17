@@ -1,9 +1,7 @@
 from tkinter import *
-from tkinter import *
+from tkinter import ttk
 
 window = Tk()
-window.iconbitmap('python.ico')
-
 baseTab = ttk.Notebook(window)
 
 tabDog = ttk.Frame(baseTab)
